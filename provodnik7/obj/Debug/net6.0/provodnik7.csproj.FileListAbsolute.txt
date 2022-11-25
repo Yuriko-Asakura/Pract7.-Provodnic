@@ -1,0 +1,15 @@
+C:\Users\Татьяна\source\repos\provodnik7\provodnik7\obj\Debug\net6.0\provodnik7.csproj.AssemblyReference.cache
+C:\Users\Татьяна\source\repos\provodnik7\provodnik7\obj\Debug\net6.0\provodnik7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Татьяна\source\repos\provodnik7\provodnik7\obj\Debug\net6.0\provodnik7.AssemblyInfoInputs.cache
+C:\Users\Татьяна\source\repos\provodnik7\provodnik7\obj\Debug\net6.0\provodnik7.AssemblyInfo.cs
+C:\Users\Татьяна\source\repos\provodnik7\provodnik7\obj\Debug\net6.0\provodnik7.csproj.CoreCompileInputs.cache
+C:\Users\Татьяна\source\repos\provodnik7\provodnik7\bin\Debug\net6.0\provodnik7.exe
+C:\Users\Татьяна\source\repos\provodnik7\provodnik7\bin\Debug\net6.0\provodnik7.deps.json
+C:\Users\Татьяна\source\repos\provodnik7\provodnik7\bin\Debug\net6.0\provodnik7.runtimeconfig.json
+C:\Users\Татьяна\source\repos\provodnik7\provodnik7\bin\Debug\net6.0\provodnik7.dll
+C:\Users\Татьяна\source\repos\provodnik7\provodnik7\bin\Debug\net6.0\provodnik7.pdb
+C:\Users\Татьяна\source\repos\provodnik7\provodnik7\obj\Debug\net6.0\provodnik7.dll
+C:\Users\Татьяна\source\repos\provodnik7\provodnik7\obj\Debug\net6.0\refint\provodnik7.dll
+C:\Users\Татьяна\source\repos\provodnik7\provodnik7\obj\Debug\net6.0\provodnik7.pdb
+C:\Users\Татьяна\source\repos\provodnik7\provodnik7\obj\Debug\net6.0\provodnik7.genruntimeconfig.cache
+C:\Users\Татьяна\source\repos\provodnik7\provodnik7\obj\Debug\net6.0\ref\provodnik7.dll
